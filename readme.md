@@ -14,3 +14,5 @@
 * Внедрение в структуру сайта дополнительных интерактивных элементов
 
 ### Ссылка на GitHub Pages:
+https://maxtch3.github.io/yet-another-project/index.html
+
